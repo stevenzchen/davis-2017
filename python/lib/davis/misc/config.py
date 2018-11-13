@@ -38,10 +38,10 @@ __C.N_JOBS = 32
 __C.PATH = edict()
 
 # Dataset resolution: ("480p","1080p")
-__C.RESOLUTION="480p"
+__C.RESOLUTION="1080p"
 
 # Dataset year: ("2016","2017")
-__C.YEAR ="2017"
+__C.YEAR ="2016"
 
 __C.PHASE = phase.VAL
 
